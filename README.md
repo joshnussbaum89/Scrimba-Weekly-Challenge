@@ -1,3 +1,5 @@
-# Scrimba Web Development Challenges
+# Scrimba Web Development Challenge
 
-This is a repository used to store various web dev challenges from [Scrimba](https://scrimba.com/) ✨
+[Scrimba](https://scrimba.com/) ✨
+
+Text field with a character limit
